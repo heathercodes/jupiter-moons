@@ -1,0 +1,24 @@
+{
+  "name": "jupiter-moons",
+  "version": "1.0.0",
+  "description": "A-Frame powered rendering of Jupiter and it's Galiean Moons",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heathercodes/jupiter-moons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heathercodes/jupiter-moons/issues"
+  },
+  "homepage": "https://github.com/heathercodes/jupiter-moons#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "local-web-server": "^2.6.1"
+  }
+}
